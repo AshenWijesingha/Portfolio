@@ -1,0 +1,544 @@
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\index.htm
+Content Type: text/html
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/chunks/2113-b6e4edb0ec905097.js
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\chunks\2113-b6e4edb0ec905097.js
+Content Type: application/javascript
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/chunks/2edb282b-a83f7ffd007bccf0.js
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\chunks\2edb282b-a83f7ffd007bccf0.js
+Content Type: application/javascript
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/chunks/3d35b88c-add1990a508b9ea1.js
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\chunks\3d35b88c-add1990a508b9ea1.js
+Content Type: application/javascript
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/chunks/4639-428727c47f605e33.js
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\chunks\4639-428727c47f605e33.js
+Content Type: application/javascript
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/chunks/5adc83ef-8e07286a1a4aed9b.js
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\chunks\5adc83ef-8e07286a1a4aed9b.js
+Content Type: application/javascript
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/chunks/69bd6bf3-bc248ffefb750b46.js
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\chunks\69bd6bf3-bc248ffefb750b46.js
+Content Type: application/javascript
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/chunks/8c469d57-15109969c63e1543.js
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\chunks\8c469d57-15109969c63e1543.js
+Content Type: application/javascript
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/chunks/91bbf309-aaf9ef7a7a89dd3c.js
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\chunks\91bbf309-aaf9ef7a7a89dd3c.js
+Content Type: application/javascript
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/chunks/93656207-3953d13b0293f9df.js
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\chunks\93656207-3953d13b0293f9df.js
+Content Type: application/javascript
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/chunks/998ccc15-ad35dfdb33c695e6.js
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\chunks\998ccc15-ad35dfdb33c695e6.js
+Content Type: application/javascript
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/chunks/9b583bcd-17d841bbd10b7965.js
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\chunks\9b583bcd-17d841bbd10b7965.js
+Content Type: application/javascript
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/chunks/a29ae703-46d951b11c376d36.js
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\chunks\a29ae703-46d951b11c376d36.js
+Content Type: application/javascript
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/chunks/ad54e6ef-acfdf0c8fba2940d.js
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\chunks\ad54e6ef-acfdf0c8fba2940d.js
+Content Type: application/javascript
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/chunks/ad943d25-7fe3a56c8d1cce87.js
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\chunks\ad943d25-7fe3a56c8d1cce87.js
+Content Type: application/javascript
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/chunks/b13ba9de-11ef9f2e07c3e310.js
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\chunks\b13ba9de-11ef9f2e07c3e310.js
+Content Type: application/javascript
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/chunks/b155a556-e6afb0a740071fe5.js
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\chunks\b155a556-e6afb0a740071fe5.js
+Content Type: application/javascript
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/chunks/b4d7d80c-027091d6b91d779a.js
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\chunks\b4d7d80c-027091d6b91d779a.js
+Content Type: application/javascript
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/chunks/d08a6a05-914359ca5fbbe6e8.js
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\chunks\d08a6a05-914359ca5fbbe6e8.js
+Content Type: application/javascript
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/chunks/framework-0ac6491e82269c86.js
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\chunks\framework-0ac6491e82269c86.js
+Content Type: application/javascript
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/chunks/main-d6eb89cd5bb22723.js
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\chunks\main-d6eb89cd5bb22723.js
+Content Type: application/javascript
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/chunks/pages/published/[docId]-03763a395de500e5.js
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\chunks\pages\published\[docId]-03763a395de500e5.js
+Content Type: application/javascript
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/chunks/pages/_app-b447acfceb9a52b4.js
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\chunks\pages\_app-b447acfceb9a52b4.js
+Content Type: application/javascript
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/chunks/webpack-426c9f7e6db03d25.js
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\chunks\webpack-426c9f7e6db03d25.js
+Content Type: application/javascript
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/css/653e7bf73c631b0c.css
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\css\653e7bf73c631b0c.css
+Content Type: text/css
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/css/7f1bf32feb6a8541.css
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\css\7f1bf32feb6a8541.css
+Content Type: text/css
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/GammaLogoGradient.43edb67f.svg
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\GammaLogoGradient.43edb67f.svg
+Content Type: image/svg+xml
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_AMS-Regular.1608a09b.woff
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_AMS-Regular.1608a09b.woff
+Content Type: font/woff
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_AMS-Regular.4aafdb68.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_AMS-Regular.4aafdb68.ttf
+Content Type: font/ttf
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_AMS-Regular.a79f1c31.woff2
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_AMS-Regular.a79f1c31.woff2
+Content Type: font/woff2
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Caligraphic-Bold.b6770918.woff
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Caligraphic-Bold.b6770918.woff
+Content Type: font/woff
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Caligraphic-Bold.cce5b8ec.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Caligraphic-Bold.cce5b8ec.ttf
+Content Type: font/ttf
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Caligraphic-Bold.ec17d132.woff2
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Caligraphic-Bold.ec17d132.woff2
+Content Type: font/woff2
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Caligraphic-Regular.07ef19e7.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Caligraphic-Regular.07ef19e7.ttf
+Content Type: font/ttf
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Caligraphic-Regular.55fac258.woff2
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Caligraphic-Regular.55fac258.woff2
+Content Type: font/woff2
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Caligraphic-Regular.dad44a7f.woff
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Caligraphic-Regular.dad44a7f.woff
+Content Type: font/woff
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Fraktur-Bold.9f256b85.woff
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Fraktur-Bold.9f256b85.woff
+Content Type: font/woff
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Fraktur-Bold.b18f59e1.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Fraktur-Bold.b18f59e1.ttf
+Content Type: font/ttf
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Fraktur-Bold.d42a5579.woff2
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Fraktur-Bold.d42a5579.woff2
+Content Type: font/woff2
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Fraktur-Regular.7c187121.woff
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Fraktur-Regular.7c187121.woff
+Content Type: font/woff
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Fraktur-Regular.d3c882a6.woff2
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Fraktur-Regular.d3c882a6.woff2
+Content Type: font/woff2
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Fraktur-Regular.ed38e79f.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Fraktur-Regular.ed38e79f.ttf
+Content Type: font/ttf
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Main-Bold.b74a1a8b.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Main-Bold.b74a1a8b.ttf
+Content Type: font/ttf
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Main-Bold.c3fb5ac2.woff2
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Main-Bold.c3fb5ac2.woff2
+Content Type: font/woff2
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Main-Bold.d181c465.woff
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Main-Bold.d181c465.woff
+Content Type: font/woff
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Main-BoldItalic.6f2bb1df.woff2
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Main-BoldItalic.6f2bb1df.woff2
+Content Type: font/woff2
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Main-BoldItalic.70d8b0a5.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Main-BoldItalic.70d8b0a5.ttf
+Content Type: font/ttf
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Main-BoldItalic.e3f82f9d.woff
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Main-BoldItalic.e3f82f9d.woff
+Content Type: font/woff
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Main-Italic.47373d1e.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Main-Italic.47373d1e.ttf
+Content Type: font/ttf
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Main-Italic.8916142b.woff2
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Main-Italic.8916142b.woff2
+Content Type: font/woff2
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Main-Italic.9024d815.woff
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Main-Italic.9024d815.woff
+Content Type: font/woff
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Main-Regular.0462f03b.woff2
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Main-Regular.0462f03b.woff2
+Content Type: font/woff2
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Main-Regular.7f51fe03.woff
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Main-Regular.7f51fe03.woff
+Content Type: font/woff
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Main-Regular.b7f8fe9b.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Main-Regular.b7f8fe9b.ttf
+Content Type: font/ttf
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Math-BoldItalic.572d331f.woff2
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Math-BoldItalic.572d331f.woff2
+Content Type: font/woff2
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Math-BoldItalic.a879cf83.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Math-BoldItalic.a879cf83.ttf
+Content Type: font/ttf
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Math-BoldItalic.f1035d8d.woff
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Math-BoldItalic.f1035d8d.woff
+Content Type: font/woff
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Math-Italic.5295ba48.woff
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Math-Italic.5295ba48.woff
+Content Type: font/woff
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Math-Italic.939bc644.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Math-Italic.939bc644.ttf
+Content Type: font/ttf
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Math-Italic.f28c23ac.woff2
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Math-Italic.f28c23ac.woff2
+Content Type: font/woff2
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_SansSerif-Bold.8c5b5494.woff2
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_SansSerif-Bold.8c5b5494.woff2
+Content Type: font/woff2
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_SansSerif-Bold.94e1e8dc.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_SansSerif-Bold.94e1e8dc.ttf
+Content Type: font/ttf
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_SansSerif-Bold.bf59d231.woff
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_SansSerif-Bold.bf59d231.woff
+Content Type: font/woff
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_SansSerif-Italic.3b1e59b3.woff2
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_SansSerif-Italic.3b1e59b3.woff2
+Content Type: font/woff2
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_SansSerif-Italic.7c9bc82b.woff
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_SansSerif-Italic.7c9bc82b.woff
+Content Type: font/woff
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_SansSerif-Italic.b4c20c84.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_SansSerif-Italic.b4c20c84.ttf
+Content Type: font/ttf
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_SansSerif-Regular.74048478.woff
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_SansSerif-Regular.74048478.woff
+Content Type: font/woff
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_SansSerif-Regular.ba21ed5f.woff2
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_SansSerif-Regular.ba21ed5f.woff2
+Content Type: font/woff2
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_SansSerif-Regular.d4d7ba48.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_SansSerif-Regular.d4d7ba48.ttf
+Content Type: font/ttf
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Script-Regular.03e9641d.woff2
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Script-Regular.03e9641d.woff2
+Content Type: font/woff2
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Script-Regular.07505710.woff
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Script-Regular.07505710.woff
+Content Type: font/woff
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Script-Regular.fe9cbbe1.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Script-Regular.fe9cbbe1.ttf
+Content Type: font/ttf
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Size1-Regular.e1e279cb.woff
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Size1-Regular.e1e279cb.woff
+Content Type: font/woff
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Size1-Regular.eae34984.woff2
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Size1-Regular.eae34984.woff2
+Content Type: font/woff2
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Size1-Regular.fabc004a.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Size1-Regular.fabc004a.ttf
+Content Type: font/ttf
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Size2-Regular.57727022.woff
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Size2-Regular.57727022.woff
+Content Type: font/woff
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Size2-Regular.5916a24f.woff2
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Size2-Regular.5916a24f.woff2
+Content Type: font/woff2
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Size2-Regular.d6b476ec.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Size2-Regular.d6b476ec.ttf
+Content Type: font/ttf
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Size3-Regular.9acaf01c.woff
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Size3-Regular.9acaf01c.woff
+Content Type: font/woff
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Size3-Regular.a144ef58.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Size3-Regular.a144ef58.ttf
+Content Type: font/ttf
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Size3-Regular.b4230e7e.woff2
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Size3-Regular.b4230e7e.woff2
+Content Type: font/woff2
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Size4-Regular.10d95fd3.woff2
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Size4-Regular.10d95fd3.woff2
+Content Type: font/woff2
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Size4-Regular.7a996c9d.woff
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Size4-Regular.7a996c9d.woff
+Content Type: font/woff
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Size4-Regular.fbccdabe.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Size4-Regular.fbccdabe.ttf
+Content Type: font/ttf
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Typewriter-Regular.6258592b.woff
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Typewriter-Regular.6258592b.woff
+Content Type: font/woff
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Typewriter-Regular.a8709e36.woff2
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Typewriter-Regular.a8709e36.woff2
+Content Type: font/woff2
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/media/KaTeX_Typewriter-Regular.d97aaf4a.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\media\KaTeX_Typewriter-Regular.d97aaf4a.ttf
+Content Type: font/ttf
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/vjkRpBKwHjHZvWElBMHDX/_buildManifest.js
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\vjkRpBKwHjHZvWElBMHDX\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://ashen-wijesingha-profess-pt47cp1.gamma.site/_next/static/vjkRpBKwHjHZvWElBMHDX/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\_next\static\vjkRpBKwHjHZvWElBMHDX\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto Slab:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\s\inter\v13\UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\s\inter\v13\UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7W0Q5nw.woff2
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\s\inter\v13\UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7W0Q5nw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\s\inter\v13\UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\s\inter\v13\UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\s\inter\v13\UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\s\inter\v13\UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZs.woff
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZs.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfMZs.woff
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfMZs.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZs.woff
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZs.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZs.woff
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZs.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZs.woff
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZs.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZs.woff
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZs.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeMZs.woff
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeMZs.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZs.woff
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZs.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZs.woff
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZs.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgWxP.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\s\roboto\v30\KFOkCnqEu92Fr1MmgWxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9vAw.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\s\roboto\v30\KFOlCnqEu92Fr1MmEU9vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5vAw.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\s\roboto\v30\KFOlCnqEu92Fr1MmSU5vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlvAw.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\s\roboto\v30\KFOlCnqEu92Fr1MmWUlvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtvAw.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\s\roboto\v30\KFOlCnqEu92Fr1MmYUtvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\s\roboto\v30\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSWaA.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSWaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OWaA.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OWaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOWaA.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOWaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISWaA.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISWaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISWaA.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISWaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWWaA.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWWaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOWaA.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOWaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOWaA.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOWaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSWaA.ttf
+File Name: C:\Downloaded Web Sites\ashen-wijesingha-profess-pt47cp1.gamma.site\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSWaA.ttf
+Content Type: font/ttf
+
